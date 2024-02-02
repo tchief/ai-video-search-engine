@@ -1,0 +1,7 @@
+
+:root {
+    --shadowPrimaryInner: 0px 0px  14px   0px    #00000059;    
+    --shadowPrimaryBox: 0px 4px  24px   0px    #00000059;    
+    --shadowMultiLayerShadow: 0px 0px  14px   0px    #00000059;    
+    --shadowMultiLayerShadow2: 0px 4px  4px   0px    #00000040;    
+}
